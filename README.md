@@ -7,7 +7,7 @@ Before running the game, make sure you have the following environment setup:
 This Tetris game includes FOUR additional fun and challenging modes that put a creative twist on the classic gameplay.
 You can also try running the AI versions in the AI folder to see how well the automated player performs — watch it rack up scores without human input!
 
-File Guide
+## File Guide
 | File Name            | Description                                                                                          |
 | -------------------- | ---------------------------------------------------------------------------------------------------- |
 | `game.py`            | Classic Tetris game using Tkinter – the base version.                                                |
