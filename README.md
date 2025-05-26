@@ -5,6 +5,7 @@ Before running the game, make sure you have the following environment setup:
 2. Tkinter (usually comes pre-installed with Python)
 
 This Tetris game includes FOUR additional fun and challenging modes that put a creative twist on the classic gameplay.
+
 You can also try running the AI versions in the AI folder to see how well the automated player performs — watch it rack up scores without human input!
 
 ## File Guide
